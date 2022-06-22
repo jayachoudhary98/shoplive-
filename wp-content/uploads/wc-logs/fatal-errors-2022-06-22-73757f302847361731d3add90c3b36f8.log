@@ -1,0 +1,55 @@
+2022-06-22T19:07:09+00:00 CRITICAL syntax error, unexpected token "else" in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 175
+
+2022-06-22T19:07:39+00:00 CRITICAL syntax error, unexpected token "else" in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 175
+
+2022-06-22T19:07:59+00:00 CRITICAL Unclosed '{' on line 128 in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 363
+
+2022-06-22T19:08:36+00:00 CRITICAL Uncaught TypeError: pathinfo(): Argument #1 ($path) must be of type string, array given in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php:141
+Stack trace:
+#0 C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php(141): pathinfo(Array, 4)
+#1 C:\xamppnew\htdocs\shoplive\wp-includes\template-loader.php(106): include('C:\\xamppnew\\htd...')
+#2 C:\xamppnew\htdocs\shoplive\wp-blog-header.php(19): require_once('C:\\xamppnew\\htd...')
+#3 C:\xamppnew\htdocs\shoplive\index.php(17): require('C:\\xamppnew\\htd...')
+#4 {main}
+  thrown in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 141
+
+2022-06-22T19:09:08+00:00 CRITICAL Unclosed '{' on line 128 in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 365
+
+2022-06-22T19:09:39+00:00 CRITICAL Uncaught TypeError: pathinfo(): Argument #1 ($path) must be of type string, array given in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php:141
+Stack trace:
+#0 C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php(141): pathinfo(Array, 4)
+#1 C:\xamppnew\htdocs\shoplive\wp-includes\template-loader.php(106): include('C:\\xamppnew\\htd...')
+#2 C:\xamppnew\htdocs\shoplive\wp-blog-header.php(19): require_once('C:\\xamppnew\\htd...')
+#3 C:\xamppnew\htdocs\shoplive\index.php(17): require('C:\\xamppnew\\htd...')
+#4 {main}
+  thrown in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 141
+
+2022-06-22T19:09:54+00:00 CRITICAL Uncaught TypeError: pathinfo(): Argument #1 ($path) must be of type string, array given in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php:141
+Stack trace:
+#0 C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php(141): pathinfo(Array, 4)
+#1 C:\xamppnew\htdocs\shoplive\wp-includes\template-loader.php(106): include('C:\\xamppnew\\htd...')
+#2 C:\xamppnew\htdocs\shoplive\wp-blog-header.php(19): require_once('C:\\xamppnew\\htd...')
+#3 C:\xamppnew\htdocs\shoplive\index.php(17): require('C:\\xamppnew\\htd...')
+#4 {main}
+  thrown in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 141
+
+2022-06-22T19:32:00+00:00 CRITICAL Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php:160
+Stack trace:
+#0 C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php(160): mysqli_query(Object(mysqli), '')
+#1 C:\xamppnew\htdocs\shoplive\wp-includes\template-loader.php(106): include('C:\\xamppnew\\htd...')
+#2 C:\xamppnew\htdocs\shoplive\wp-blog-header.php(19): require_once('C:\\xamppnew\\htd...')
+#3 C:\xamppnew\htdocs\shoplive\index.php(17): require('C:\\xamppnew\\htd...')
+#4 {main}
+  thrown in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 160
+
+2022-06-22T19:32:39+00:00 CRITICAL Uncaught ValueError: mysqli_query(): Argument #2 ($query) cannot be empty in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php:160
+Stack trace:
+#0 C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php(160): mysqli_query(Object(mysqli), '')
+#1 C:\xamppnew\htdocs\shoplive\wp-includes\template-loader.php(106): include('C:\\xamppnew\\htd...')
+#2 C:\xamppnew\htdocs\shoplive\wp-blog-header.php(19): require_once('C:\\xamppnew\\htd...')
+#3 C:\xamppnew\htdocs\shoplive\index.php(17): require('C:\\xamppnew\\htd...')
+#4 {main}
+  thrown in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 160
+
+2022-06-22T19:42:28+00:00 CRITICAL syntax error, unexpected identifier "Error", expecting ")" in C:\xamppnew\htdocs\shoplive\wp-content\themes\astra\tamplate-practice.php on line 164
+

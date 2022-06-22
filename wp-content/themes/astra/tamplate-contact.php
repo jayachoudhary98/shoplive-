@@ -1,0 +1,3 @@
+<?php
+// Tamplate Name: contact
+?>
